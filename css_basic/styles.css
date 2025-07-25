@@ -4,6 +4,8 @@ body {
   flex-direction: column; 
   height: 100vh; 
   margin: 0; 
+  background-color: rgb(250, 229, 204);
+  
 }
 
 /* Step 2: Make <main> a flex container in row layout */
