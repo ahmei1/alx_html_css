@@ -140,22 +140,22 @@ span{
 
 .qoute{
     display: flex;
-    justify-content: center;
-    position: relative;
-    left: 130px;
+    justify-content: center; 
+    position: absolute;
+    top: 160%;
+    left: 35%;
     bottom: 50px;
     font-size: 22px;
     font-family: sans-serif;
     color: rgba(255, 255, 255, 1);
     font-weight: 400;
-    letter-spacing: 0px;
 }
 
 #name{
     display: flex;
     justify-content:center;
     position: relative;
-    right: 220px;
+    right: 195px;
     top: 20px;
     color: rgba(255, 255, 255, 1);
     font-family: sans-serif;
@@ -167,9 +167,138 @@ span{
     display: flex;
     justify-content: center;
     position: relative;
-    right: 180px;
+    right: 150px;
     top: 20px;
     color: rgba(255, 255, 255, 1);
     font-size: 22px;
     font-weight: 400;
 }
+
+/* section 3 */
+.third-section{
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 100vh;
+}
+
+.h-ofthirdsection{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 70px;
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 32px;
+}
+
+.popular{
+    color: rgba(194, 113, 255, 1);
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 1px;
+    top: 5px;
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 100%;
+}
+/* images of the previews */
+/* first image */
+.imageone{
+    position:absolute;
+    right: 1150px;
+    top: 1625px;
+}
+.firststars{
+    display: flex;
+    position: absolute;
+    right: 1317px;
+    top: 1900px;
+}
+
+.h{
+    position: absolute;
+    right: 1280px;
+    top: 1779px;
+}
+.p{
+    position: absolute;
+    right:1170px;
+    top: 1800px;
+}
+/* second image */
+.imagetwo{
+    position:absolute;
+    right: 150px;
+}
+
+.htwo{
+    position: absolute;
+    right: 300px;
+    top: 1758px;
+}
+
+.ptwo{
+    position: absolute;
+    top: 1780px;
+    right: 170px;
+}
+.firstph{
+    position: absolute;
+    top: 1850px;
+    right:245px;
+}
+
+.phi{
+    position: absolute;
+    top: 1845px;
+    right:360px;
+}
+.secondstars{
+    display: flex;
+    position: absolute;
+    top: 1900px;
+    right: 295px;
+}
+.mina{
+     position: absolute;
+    top: 1900px;
+    right: 150px;
+}
+/* third image */
+.imagethree{
+    position: absolute;
+    right: 470px;
+}
+
+.thirdstars{
+    display: flex;
+    position: absolute;
+    top: 1900px;
+right: 650px;
+}
+
+/* image four */
+
+.imagefour{
+    position: absolute;
+    right: 820px;
+    top: 1625px;
+}
+
+.fourthstars{
+    display: flex;
+    position: absolute;
+    top: 1900px;
+    right:820px ;
+}
+
+
+
+/* section 4 */
+#forth-section{
+    background-color: rgba(7, 22, 41, 1);
+    min-height: 50vh;
+}
+
+
