@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+
+
+
+#background{
+    background-image:url(resources/images/background.png) ;
+    min-height: 140vh;
+    min-width: 100vh;
+}
+
+
+/* styling the nav bar */
+.navbar{
+}
+#logo{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+    color: rgba(255, 255, 255, 1);
+    position: relative;
+    left: 30px;
+}
+
+.list-elements{
+    display: flex;
+    justify-content:flex-end;
+    gap: 2em;
+    flex: 0 0 auto;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 50px;
+    right: 50px;
+    list-style: none;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.list-elements a {
+    color:rgba(255, 255, 255, 1);
+    text-decoration: none;
+}
+
+/* styling the main content and the header */
+
+
+#opening{
+    display: flex;
+    justify-content: center;
+    font-size: 120px;
+    position: relative;
+    top: 90px; 
+    font-family: sans-serif;
+    color: rgba(255, 255, 255, 1);
+}
+
+span{
+    position: relative;
+    left:40%;
+    top: 95px;
+    letter-spacing: 0%;
+    gap: 2em;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+}
+
+.REGISTER{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 45%;
+    top: 150px;
+    border-radius: 22px;
+    background-color: rgba(194, 113, 255, 1);
+    color: rgba(255, 255, 255, 1);
+    padding: 20px;
+    height: 44px;
+    width: 162px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: sans-serif;
+    text-wrap: nowrap;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 0;
+}
+
+/* the pros  */
+#pros{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 350px;
+    right: 20px;
+    color: rgba(255, 255, 255, 1);
+    font-family: sans-serif;
+}
+
+.learn{
+    color: rgba(194, 113, 255, 1);
+    position: relative;
+    left: 15px;
+    bottom: 0px;
+    top: 0.5px;
+
+}
+
+.imgs{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:flex-end;
+    position: relative;
+    top: 400px;
+    color:rgba(255, 255, 255, 1) ;
+    font-family: sans-serif;
+}
+
+/* section 2 */
+.background2{
+    background-color: rgba(194, 113, 255, 1);
+    min-height: 60vh;
+}
+
+.mg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    position:relative;
+    left: 300px;
+    top: 130px;
+    right: 10px;
+}
+
+.qoute{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 130px;
+    bottom: 50px;
+    font-size: 22px;
+    font-family: sans-serif;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    letter-spacing: 0px;
+}
+
+#name{
+    display: flex;
+    justify-content:center;
+    position: relative;
+    right: 220px;
+    top: 20px;
+    color: rgba(255, 255, 255, 1);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+#weather{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 180px;
+    top: 20px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 22px;
+    font-weight: 400;
+}
