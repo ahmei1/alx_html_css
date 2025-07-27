@@ -177,7 +177,7 @@ span{
 /* section 3 */
 .third-section{
     background-color: rgba(255, 255, 255, 1);
-    min-height: 100vh;
+    min-height: 80vh;
 }
 
 .h-ofthirdsection{
@@ -212,70 +212,174 @@ span{
 .firststars{
     display: flex;
     position: absolute;
-    right: 1317px;
-    top: 1900px;
+    right: 1305px;
+    top: 1890px;
+    color: rgba(194, 113, 255, 1);
+}
+
+#a{
+    color:rgba(216, 216, 216, 1);
 }
 
 .h{
     position: absolute;
     right: 1280px;
     top: 1779px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 16px;
 }
 .p{
     position: absolute;
     right:1170px;
     top: 1800px;
+    color: rgba(7, 22, 41, 0.5016);
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.phione{
+    position: absolute;
+    right:1370px;
+    top: 1855px;
+}
+
+.ph-one{
+    position: absolute;
+    right:1260px;
+    top: 1855px;
+    color: rgba(194, 113, 255, 1);
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.min{
+    position: absolute;
+    right:1200px;
+    top: 1890px;
+    color: rgba(194, 113, 255, 1);
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
 }
 /* second image */
 .imagetwo{
     position:absolute;
     right: 150px;
+    top: 1625px;
 }
 
 .htwo{
     position: absolute;
     right: 300px;
-    top: 1758px;
+    top: 1779px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+
 }
 
 .ptwo{
     position: absolute;
-    top: 1780px;
+    top: 1800px;
     right: 170px;
+    color: rgba(7, 22, 41, 0.5016);
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 14px;
 }
 .firstph{
     position: absolute;
-    top: 1850px;
-    right:245px;
+    top: 1855px;
+    right:259px;
+    color: rgba(194, 113, 255, 1);
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
 }
 
 .phi{
     position: absolute;
-    top: 1845px;
-    right:360px;
+    top: 1855px;
+    right:369px;
 }
 .secondstars{
     display: flex;
     position: absolute;
-    top: 1900px;
-    right: 295px;
+    top: 1890px;
+    right: 300px;
+    color: rgba(194, 113, 255, 1);
+}
+#b{
+    color: rgba(216, 216, 216, 1);
 }
 .mina{
      position: absolute;
-    top: 1900px;
-    right: 150px;
+    top: 1890px;
+    right: 180px;
+    color: rgba(194, 113, 255, 1);
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
 }
 /* third image */
 .imagethree{
     position: absolute;
     right: 470px;
+    top: 1625px;
 }
 
 .thirdstars{
     display: flex;
     position: absolute;
-    top: 1900px;
-right: 650px;
+    top: 1890px;
+    right: 630px;
+    color: rgba(194, 113, 255, 1);
+}
+#c{
+    color: rgba(216, 216, 216, 1);
+}
+.hthree{
+position: absolute;
+    right: 610px;
+    top: 1779px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+.pthree{
+position: absolute;
+    right: 490px;
+    top: 1800px;
+    color: rgba(7, 22, 41, 0.5016);
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+.avatarthree{
+position: absolute;
+    right: 700px;
+    top: 1855px;
+}
+.phthree{
+position: absolute;
+    right: 590px;
+    top: 1855px;
+    color: rgba(194, 113, 255, 1);
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+}
+.minthree{
+position: absolute;
+    right: 490px;
+    top: 1890px;
+    color: rgba(194, 113, 255, 1);
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
 }
 
 /* image four */
@@ -289,16 +393,273 @@ right: 650px;
 .fourthstars{
     display: flex;
     position: absolute;
-    top: 1900px;
-    right:820px ;
+    top: 1890px;
+    right:975px ;
+    color: rgba(194, 113, 255, 1);
+}
+#d{
+    color: rgba(216, 216, 216, 1);
 }
 
+.hfour{
+position: absolute;
+    right: 995px;
+    top: 1779px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+.pfour{
+position: absolute;
+    right: 840px;
+    top: 1800px;
+    color: rgba(7, 22, 41, 0.5016);
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+.avatarfour{
+position: absolute;
+    right: 1040px;
+    top: 1855px;
+}
+.phfour{
+position: absolute;
+    right: 930px;
+    top: 1855px;
+    color: rgba(194, 113, 255, 1);
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+}
+.minfour{
+position: absolute;
+    right: 840px;
+    top: 1890px;
+    color: rgba(194, 113, 255, 1);
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+}
 
 
 /* section 4 */
 #forth-section{
     background-color: rgba(7, 22, 41, 1);
-    min-height: 50vh;
+    min-height: 70vh;
 }
 
+.h-sectionfour{
+    position: absolute;
+    left: 695px;
+    top:2150px; 
+    color: rgba(255, 255, 255, 1);
+    font-weight: 300;
+    font-size: 32px;
 
+}
+#free{
+    color:rgba(194, 113, 255, 1);
+    position: absolute;
+    left: -100px;
+    top:0px; 
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+
+}
+/* displaying the images and paragraph */
+/* first image in section 3 */
+.img-a{
+    position: absolute;
+    top:2250px;
+    right: 250px;
+}
+.h-one{
+    color: rgba(255, 255, 255, 1);
+    font-weight: 600;
+    font-size: 18px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 2300px;
+    left: 1185px;
+}
+
+.p-one{
+    position: absolute;
+    top: 2330px;
+    left: 1180px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 14px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+/* second image */
+.image-b{
+position: absolute;
+top:2250px;
+right: 600px;
+}
+
+.h-two{
+position: absolute;
+top: 2300px;
+right: 560px;
+color: rgba(255, 255, 255, 1);
+font-weight: 600;
+font-size: 18px;
+font-family: sans-serif;
+}
+
+.p-two{
+position: absolute;
+top: 2330px;
+right: 500px;
+color: rgba(255, 255, 255, 1);
+font-size: 14px;
+font-weight: 400;
+font-family: sans-serif;
+}
+/* third image  */
+.image-c{
+position: absolute;
+top:2250px;
+right: 900px;
+}
+.h-three{
+position: absolute;
+top: 2300px;
+right: 870px;
+color: rgba(255, 255, 255, 1);
+font-weight: 600;
+font-size: 18px;
+font-family: sans-serif;
+}
+
+.p-three{
+position: absolute;
+top: 2330px;
+right: 810px;
+color: rgba(255, 255, 255, 1);
+font-size: 14px;
+font-weight: 400;
+font-family: sans-serif;
+}
+/* fourth image */
+.image-d{
+position: absolute;
+top:2250px;
+right: 1200px;
+}
+.h-four{
+position: absolute;
+top: 2300px;
+right: 1160px;
+color: rgba(255, 255, 255, 1);
+font-weight: 600;
+font-size: 18px;
+font-family: sans-serif;
+}
+
+.p-four{
+position: absolute;
+top: 2330px;
+right: 1100px;
+color: rgba(255, 255, 255, 1);
+font-size: 14px;
+font-weight: 400;
+font-family: sans-serif;
+}
+
+/* buttom */
+.buttom{
+position: absolute;
+top: 2500px;
+left: 670px;
+background-color: rgba(194, 113, 255, 1);
+width: 162px;
+height: 44px;
+border-radius: 22px;
+font-family: sans-serif;
+font-size: 14px;
+font-weight: 600;
+color: rgba(255, 255, 255, 1);
+}
+
+/* section 5 */
+.sectionfive{
+    min-height:90vh;
+}
+.head-h{
+    position: absolute;
+    top: 2600px;
+    left: 700px;
+    color: rgba(7, 22, 41, 1);
+    font-size: 60px;
+    font-weight: 300;
+}
+.hs{
+    display: flex;
+    justify-content: space-around;
+    padding: 90px;
+    margin: 30px;
+    color:rgba(7, 22, 41, 0.5016);
+    font-family: sans-serif;
+}
+#a-h{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+    color: rgba(7, 22, 41, 1);
+    font-size: 16px;
+    font-weight: 700;
+}
+#b-h{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+    color: rgba(7, 22, 41, 1);
+    font-size: 16px;
+    font-weight: 700;
+}
+#c-h{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+    color: rgba(7, 22, 41, 1);
+    font-size: 16px;
+    font-weight: 700;
+}
+#d-h{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+    color: rgba(7, 22, 41, 1);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+/* footer */
+.footer{
+    min-height: 20vh;
+    background-color: rgba(7, 22, 41, 1);
+}
+
+.logos{
+    display: flex;
+}
+
+#mainlogo{
+    padding: 60px;
+}
+
+.lastp{
+    position: absolute;
+    color:rgba(255, 255, 255, 1);
+    left: 690px;
+    top: 3450px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+
+}
