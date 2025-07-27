@@ -12,8 +12,7 @@
 
 
 /* styling the nav bar */
-.navbar{
-}
+
 #logo{
     display: flex;
     justify-content: flex-start;
@@ -43,6 +42,10 @@
     text-decoration: none;
 }
 
+.list-elements :hover{
+    color:  rgba(194, 113, 255, 1);
+}
+
 /* styling the main content and the header */
 
 
@@ -54,6 +57,11 @@
     top: 90px; 
     font-family: sans-serif;
     color: rgba(255, 255, 255, 1);
+}
+
+#opening:hover{
+    color:  rgba(194, 113, 255, 1);
+    font-size: 122px;
 }
 
 span{
@@ -68,7 +76,9 @@ span{
     font-weight: 700;
     color: rgba(255, 255, 255, 1);
 }
-
+span:hover{
+    color:  rgba(194, 113, 255, 1);
+}
 .REGISTER{
     display: flex;
     justify-content: center;
