@@ -35,11 +35,13 @@
     font-family: sans-serif;
     font-weight: 700;
     font-size: 12px;
+    
 }
 
 .list-elements a {
     color:rgba(255, 255, 255, 1);
     text-decoration: none;
+    transition: all 0.5s;
 }
 
 .list-elements :hover{
@@ -57,11 +59,12 @@
     top: 90px; 
     font-family: sans-serif;
     color: rgba(255, 255, 255, 1);
+    transition: all .5s;
+    box-sizing: border-box;
 }
 
-#opening:hover{
-    color:  rgba(194, 113, 255, 1);
-    font-size: 122px;
+#opening:hover {
+    color: rgba(194, 113, 255, 1);
 }
 
 span{
@@ -75,6 +78,7 @@ span{
     font-family: sans-serif;
     font-weight: 700;
     color: rgba(255, 255, 255, 1);
+    transition: all .5s;
 }
 span:hover{
     color:  rgba(194, 113, 255, 1);
