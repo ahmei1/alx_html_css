@@ -1,1 +1,3 @@
-
+name of the project: HEADPHONE COMPANY.
+description: this project is the main task in ALX frontend course week 8, i am required to create a responsive website from scratch and build it using HTML and CSS, i must use simple selectors and beautiful designing and make the website responsive and easy to use based on the UI skills we've learned and the SKILLS of CSS and HTML to create a website.
+unlike the other tasks we've take so far this task is actually require us to put all the knowledge we've learned because all the designing and the codes will be written from scratch by us. so i hope this is well orderd and beautifully created website and i also hope that the code is clean and understandable.
